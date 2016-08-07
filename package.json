@@ -1,6 +1,6 @@
 {
   "name": "cerebral-module-firebase",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "The official Firebase module for Cerebral",
   "main": "dist/index.js",
   "scripts": {
